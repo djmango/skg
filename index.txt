@@ -1,7 +1,3 @@
-# skg
-
-[skg.bio](https://skg.bio)
-
 Sulaiman Khan Ghori
 
 I am an engineer.
