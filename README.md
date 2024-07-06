@@ -1,6 +1,6 @@
 # skg
 
-[skg.bio](https://skg.bio)
+[skg.gg](https://skg.gg)
 
 Sulaiman Khan Ghori
 
@@ -23,13 +23,13 @@ Some things I've worked on:
 - [Self-driving cars](https://youtu.be/pLDMhNwsbwI?si=olO68hEVxFpDS1t4) trained in simulation (unsafe)
 - [FPV drones](https://youtu.be/b7MsTlukhV8?si=NmKNjW-uj_2dV5ZC) (fast)
 - ML [document processing and problem extraction](https://getonder.com) (pretty cool)
-- [My vim config](https://vim.skg.bio) (time sink)
+- [My vim config](https://vim.skg.gg) (time sink)
 - [AI B2B SaaS Coursera competitor](https://jeeny.ai) (fired)
 - [AI transcription/translation platform](https://swiftink.io) (acquired)
 - [Neuralink compression challenge](https://github.com/djmango/smallbrain) (sota)
 - [A ton of open-source stuff](https://github.com/djmango/obsidian-transcription) (free as in beer)
 - [LLMs integrated into OS](https://i.inc) (active)
-- Designing & building liquid-fueled [rocket engine](https://rocket.skg.bio) (active)
+- Designing & building liquid-fueled [rocket engine](https://rocket.skg.gg) (active)
 
 My long term ambition is to build Von Neumann machines to seed life on other planets. I am currently 3% of the way there.
 
