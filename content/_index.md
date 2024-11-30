@@ -1,8 +1,10 @@
-Sulaiman Khan Ghori
++++
+title = "Sulaiman Khan Ghori"
++++
 
 I am an engineer.
 
-Some things about me:
+### Some things about me:
 
 - Located in Mission, San Francisco
 - Robotics & ML background
@@ -11,7 +13,7 @@ Some things about me:
 - You can [fork](https://github.com/djmango/skg) this website
 - Ideally, I'd like to die on a generation ship.
 
-Some things I've worked on:
+### Some things I've worked on:
 
 - P2P messaging [system](https://github.com/djmango/pyddle) (slow tbh)
 - A ton of pre-transformer self-learning [chatbots](https://github.com/djmango/the-benjamin-project) (didn't work)
@@ -24,13 +26,19 @@ Some things I've worked on:
 - [AI transcription/translation platform](https://swiftink.io) (acquired)
 - [Neuralink compression challenge](https://github.com/djmango/smallbrain) (sota)
 - [A ton of open-source stuff](https://github.com/djmango/obsidian-transcription) (free as in beer)
-- [LLMs integrated into OS](https://i.inc) (active)
-- Designing & building liquid-fueled [rocket engine](https://rocket.skg.gg) (active)
+- [LLMs integrated into OS](https://i.inc) (sleek)
+- [SF2 deep tech hackerhouse](https://sf2.sh) (active)
+- Designing & building liquid-fueled [rocket engine](https://x.com/sulaimanghori/status/1861261036407661046) (loud)
+- [Asteroid mining](https://khanspaceindustries.com) (ambitious)
 
-My long term ambition is to build Von Neumann machines to seed life on other planets. I am currently 3% of the way there.
+### Long-Term Ambition
 
-Links:
+My long-term ambition is to build Von Neumann machines to seed life on other planets. I am currently 3% of the way there.
+
+### Links
 
 - [X](https://x.com/sulaimanghori)
 - [GitHub](https://github.com/djmango)
 - [Email](mailto:sulaiman.ghori@outlook.com)
+
+---
