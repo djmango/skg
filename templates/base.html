@@ -12,7 +12,13 @@
   {% endif %}
   {% elif section %}
   {% if section.title %}
-  <title>{{ config.title }} | {{ section.title }}</title>
+  <!-- avoid duplicating the title at index -->
+  <title>
+    {{ config.title }}
+    {% if section and section.title != config.title %}
+    | {{ section.title }}
+    {% endif %}
+  </title>
   {% else %}
   <title>{{ config.title }}</title>
   {% endif %}

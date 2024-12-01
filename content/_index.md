@@ -39,5 +39,3 @@ My long-term ambition is to build Von Neumann machines to seed life on other pla
 - [X](https://x.com/sulaimanghori)
 - [GitHub](https://github.com/djmango)
 - [Email](mailto:sulaiman.ghori@outlook.com)
-
----
