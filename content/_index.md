@@ -8,9 +8,8 @@ I am an engineer.
 
 - Located in Mission, San Francisco
 - Robotics & ML background
-- Been doing startups since 2019
+- Building startups since 2019
 - I love space
-- You can [fork](https://github.com/djmango/skg) this website
 - Ideally, I'd like to die on a generation ship.
 
 ### Some things I've worked on:
@@ -28,7 +27,7 @@ I am an engineer.
 - [A ton of open-source stuff](https://github.com/djmango/obsidian-transcription) (free as in beer)
 - [LLMs integrated into OS](https://i.inc) (sleek)
 - [SF2 deep tech hackerhouse](https://sf2.sh) (active)
-- Designing & building liquid-fueled [rocket engine](https://x.com/sulaimanghori/status/1861261036407661046) (loud)
+- Designed & built liquid-fueled [rocket engine](https://x.com/sulaimanghori/status/1861261036407661046) (loud)
 - [Asteroid mining](https://khanspaceindustries.com) (ambitious)
 
 ### Long-Term Ambition

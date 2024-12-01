@@ -27,5 +27,3 @@ date = 2024-11-29
    1. Competitive robotics. This was one of the first extremely difficult things I did, where failure could stem from something as little as tightening a screw an extra half turn. **Attention to detail** was critical, and it taught me that there are **no limits to focus when properly motivated** as well as how much better I can perform under pressure. I found **a home in the extremes**.
 9. Have you ever started a business, or dedicated yourself to a major project? Standout achievements? If yes, please describe the organization or project you started, your reason for starting it, and your role.
    1. Yes, I've built two software companies i.inc and swiftink.io, outcomes of which fund my research now. I quit my job and went full time on entrepreneurship over two years ago and have not had a weekend since. These are solo built, I run engineering, sales, marketing, and ops. Before that, in highschool I built and ran a large competitive robotics org, dedicating every evening for years to it. It still runs today, larger than ever.
-
----
