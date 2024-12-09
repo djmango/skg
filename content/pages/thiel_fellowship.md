@@ -18,13 +18,12 @@ date = 2024-12-06
    - [ ] Yes
    - [x] No
 7. What are you working on now?
-   1. My mission is to seed life in the universe via von Neumann probes. Life is the only force in the universe that combats entropy. Making complexity in the galaxy default-alive will be a a fundamental shift in the universal order. I have what I lovingly call my eightfold path to get there, a series of productizeable technologies to get there, starting with asteroid mining using a new fundamentally more scaleable architecture than other attempts. In the moderate case, it will enable outcompeting terrestrial mining operations and reduce the price of our most valuable minerals (PGMs namely) by up to 2x in the first decade, enabling new a wealth of downstream opportunities globally, and of course making the pioneering organization proportionally valuable.
+   1. My mission is to seed life in the universe via von Neumann probes. Life is the only force in the universe that combats entropy. Making complexity in the galaxy default-alive will be a a fundamental shift in the universal order. I have an eightfold path to get there, a series of productizeable technologies, starting with asteroid mining. I'm developing a fundamentally more scaleable architecture than other asteroid mining attempts. In the moderate case, it enable outcompete terrestrial mining operations and reduce the price of our most valuable minerals (platinum group metals namely) by at minimum half in just the first decade.
 8. What industry would you categorize your company/project in?
    1. Space industrialization
 9. Project/company link?
    1. https://khanspaceindustries.com
 10. Additional files
-    - Attach a deck or any additional materials that help describe what you’re up to. (4 MB max)
 11. Do you have any eligible cofounders?
     - [ ] Yes
     - [x] No
@@ -43,10 +42,9 @@ date = 2024-12-06
     - [SF2 deep tech hackerhouse](https://sf2.sh) (active)
     - Designed & built liquid-fueled [rocket engine](https://x.com/sulaimanghori/status/1861261036407661046) (loud)
     - [Asteroid mining](https://khanspaceindustries.com) (ambitious)
-13. What is the most important problem facing your field?
-    1. Fear. Risk tolerance has gone down considerably. You too, have felt this. In some ways this is a positive sign, indicating the increased value of a life and reduced effort required to achieve comfort and safety. However, neither safety nor comfort are life's raison d'etre. Our purpose is to grow past the bounds of those before us. Colonizing space is risky, but this must not demerit the pursuit.
+13. What is the most important problem facing your field? 2. Physics. One of the biggest allures of this challenge for me is that it is a pure engineering problem. There are no stakeholders to please other than Newton. Specifically, the tyranny of the Tsiolkovsky rocket equation. The more energy you need to impart, the more mass you need to bring with you, the more energy you need to bring the extra mass in the first place. It's parasitic. The problem is commonly known as The Mass Spiral. I'm developing an extremely efficient yet powerful ion engine which can eliminate the burden.
 14. What is the most important problem facing someone else’s field?
-    1. Wether or not you believe in a near-term super-intelligence horizon, it is clear that the pool of capabilities unique to humans is shrinking. In order to survive as a species, we must evolve. BCIs appear to be the most direct solution.
+    1. Wether or not you believe in a near-term super-intelligence horizon, it is clear that the pool of capabilities unique to humans is shrinking. In order to maintain relevance as a species, we must evolve. BCIs appear to be the most direct solution, by enabling us to scale our capabilities. The field's problem is trifold, the science and engineering is extremely expensive and uncharted territory, made exorbitantly more difficult by stifling regulation.
 15. What are you currently obsessed with that is totally unrelated to your project?
     1. Material science. Specifically polymers. I find it extremely alluring how elementary properties, when harnessed effectively, can be made extremely practical. Most material manufacturing processes boil down to mix with this, heat to here, apply pressure in this way, and you have your solution. It's curious that the principle is simple, yet the details make the undertaking balloon out.
 16. How do you feel about money?
@@ -54,4 +52,4 @@ date = 2024-12-06
 17. What are you scared of?
     1. Regret. As far as I'm aware, we have one shot. Any and all stumbles do cost us, even if marginally so. With projects of great stature, the significance of any error scales exponentially with time. We have many truisms to placate ourselves from these fears, but the universe is not fooled.
 18. Tell us something tangible you want.
-    1. A garage. I like tinkering, have many long-form projects I undertake and require physical space and tooling.
+    1. A garage. I like tinkering, have many long-form projects I undertake and require physical space and tooling. I used to wrench on cars, restoring and modifying, and want to construct my own kit plane, I'm working on my pilots license for the pursuit now.
